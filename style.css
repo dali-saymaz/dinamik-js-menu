@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,100&display=swap');
+
+
+
+
+                      [data-tab-content] {
+                        display: none;
+                      }
+                      
+                      .active[data-tab-content] {
+                        display: block;
+                      }
+                
+                      
+                      .tabs {
+                        display: flex;
+                        justify-content: space-around;
+          
+                      }
+                      
+                     
+                     
+
